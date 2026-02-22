@@ -31,7 +31,7 @@ export default function Hero() {
             <span className="text-accent">Community Leader</span>
           </h2>
           <p className="text-foreground/60 max-w-lg mb-8 leading-relaxed animate-fade-in-up opacity-0 delay-300">
-            A father and passionate software developer with 13+ years of
+            A father and passionate software developer with 16+ years of
             experience building backend & web applications. Community Leader of
             JVM Indonesia, KotlinID & IDDevOps.
           </p>

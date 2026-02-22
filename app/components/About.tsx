@@ -3,7 +3,7 @@ import { FaCode, FaUsers, FaBoxOpen, FaStar } from "react-icons/fa";
 const stats = [
   { icon: FaBoxOpen, value: "2285+", label: "Repositories" },
   { icon: FaUsers, value: "2050+", label: "GitHub Followers" },
-  { icon: FaCode, value: "13+", label: "Years Experience" },
+  { icon: FaCode, value: "16+", label: "Years Experience" },
   { icon: FaStar, value: "3", label: "Communities Led" },
 ];
 
@@ -34,7 +34,7 @@ export default function About() {
                 <strong className="text-foreground">
                   Bandung, Jawa Barat, Indonesia
                 </strong>
-                . With more than 13 years of experience, I specialize in
+                . With more than 16 years of experience, I specialize in
                 building scalable backend and web applications.
               </p>
               <p>

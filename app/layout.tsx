@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Hendi Santika | Senior Software Engineer",
   description:
-    "Hendi Santika - Senior Software Engineer, Community Leader of JVM Indonesia, KotlinID & IDDevOps. 13+ years building backend & web applications.",
+    "Hendi Santika - Senior Software Engineer, Community Leader of JVM Indonesia, KotlinID & IDDevOps. 16+ years building backend & web applications.",
   keywords: [
     "Hendi Santika",
     "Software Engineer",
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Hendi Santika | Senior Software Engineer",
     description:
-      "Senior Software Engineer & Community Leader. 13+ years building backend & web applications.",
+      "Senior Software Engineer & Community Leader. 16+ years building backend & web applications.",
     type: "website",
   },
 };
